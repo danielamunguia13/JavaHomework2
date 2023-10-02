@@ -1,6 +1,6 @@
 # JavaHomework2💻
 
-### 1. Verifica si un número es divisible por 2 y por 3. ✅[https://github.com/danielamunguia13/javahomework2/blob/main/divisbleentre2y3.java]
+### [1. Verifica si un número es divisible por 2 y por 3.] ✅(https://github.com/danielamunguia13/javahomework2/blob/main/divisbleentre2y3.java)
 Un programa que determina si un número es divisible tanto por 2 como por 3.
 
 ### 2. Determina si una cadena de texto contiene la letra "a" y la letra "b". ✉️
