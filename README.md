@@ -1,7 +1,5 @@
 #JavaHomework2- Ejercicios de Programación 💻
 
-## Ejercicios Resueltos 🧩
-
 ### 1. Verifica si un número es divisible por 2 y por 3. ✅
 Un programa que determina si un número es divisible tanto por 2 como por 3.
 
